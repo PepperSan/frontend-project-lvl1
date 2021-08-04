@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/PepperSan/frontend-project-lvl1/issues"
   },
-  "homepage": "https://github.com/PepperSan/frontend-project-lvl1#readme"
+  "homepage": "https://github.com/PepperSan/frontend-project-lvl1#readme",
+  "bin": {
+    "code": "brain-games.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
